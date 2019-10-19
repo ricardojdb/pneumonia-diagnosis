@@ -1,1 +1,1 @@
-# pneumonia-diagnosis
+# Pneumonia Diagnosis
